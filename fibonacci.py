@@ -1,3 +1,5 @@
+# find the sum of even fibonacci numbers up to 4000000
+
 def even_fib(num):
     fib_list = [0,1]
     sum = 0
