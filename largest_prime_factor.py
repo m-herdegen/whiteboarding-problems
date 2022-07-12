@@ -1,4 +1,4 @@
-# find the largest prime factor
+# find the largest prime factor of a number
 
 def largest_prime(num):
     div = 2
